@@ -7,10 +7,6 @@
 - LED * 6
 - arduino mini * 1
 
-## Top View
-
-![image](https://github.com/secret3557/Toy-Fingertip-gyro/blob/master/topview.jpg)
-
 ## Circuit:
 
 Because there is no arduino mini pro module in TinkerCAD , so we put arduino UNO as mini ;
